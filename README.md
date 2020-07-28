@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/name2.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/covid_name.PNG">
 </p>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/covid19tracker.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/covid_display.PNG">
 </p>
 
 
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/features.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/covid_features.PNG">
 </p>
 
 <h3>Check out the demo <a href="https://www.youtube.com/watch?v=1Df820ioQZI&feature=youtu.be"> here </a> </h3>
