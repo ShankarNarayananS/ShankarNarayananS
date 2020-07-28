@@ -47,3 +47,57 @@
 <h2> That's really good, but i want to add some features to it like Home Automation, Routines etc. How to do that ? </h2>
 <h4> As this is completely customizable, we can train the agent with intents in DialogFlow such that it can be your own version of Google Assistant </h4>
 
+<h1> GIF Forager® : A GIF search website using Node JS and GIPHY API </h1>
+
+![](https://github.com/ShankarNarayananS/GIF-Forager/blob/master/GIF-Forager.gif)
+
+<h3> Click <a href="https://www.youtube.com/watch?v=q29ftZ00KlE">here</a> for a better view </h3>
+
+<h2><ins>Features</ins></h2>
+<h4>1. Search for any GIF using this client </h4>
+<h4>2. Get Top Trending GIF with your search </h4>
+<h4>3. Fluid interface </h4>
+
+
+<h1> JS-Crypt : A project to Encrypt and Decrypt files using CryptoJS </h1>
+
+![join1](https://github.com/ShankarNarayananS/JS-Crypt/blob/master/JS-Crypt.gif)
+
+<h3> Click <a href="https://www.youtube.com/watch?v=WYjb5hl4C3A">here</a> for a better view </h3>
+
+<h2><ins> Features </ins></h2>
+<h3>1. Easy to use interface with fluid and robust transition </h3>
+<h3>2. AES algorithm standard used </h3>
+<h3>3. Depending of passphrase size it automatically selects among AES-128, AES-192, and AES-256 standards. </h3>
+<h3>4. Can be run offline </h3>
+<h3>5. Fast and Easy deployment on your server </h3>
+<h6>*This project can only work if the file size is less than 1MB, otherwise it may crash the browser. This is a known issue and future updates may fix this</h6>
+
+<h1>LocIDE® : A local IDE built using Node JS, Express, Body-Parser, Compile-Run and CodeMirror </h1>
+
+<p align="center">
+
+<img src="https://github.com/ShankarNarayananS/LocIDE/blob/master/LocIDE-1.gif">
+
+</p>
+
+<p align="center">
+<img src="https://github.com/ShankarNarayananS/Local-IDE/blob/master/screencapture-127-0-0-1-5500-index-html-2020-05-13-12_52_02.png">
+</p>
+
+<h3> Check out the demo <a href="https://www.youtube.com/watch?v=4Pm9umqVZFU">here</a> </h3>
+
+<h2><ins>Features</ins></h2>
+<h3>1. Support for C,C++,Node,Python and Java </h3>
+<h3>2. Real-Time compiler, no need to refresh the page </h3>
+<h3>3. Can be configured to print Time and Space complexity </h3>
+<h3>4. Language support dependencies based on host configuration </h3>
+<h3>5. Easy and Fast deployment on your server </h3>
+
+<h2><ins> Required Libraries for Node JS </ins></h2>
+<h3>1. express </h3>
+<h3>2. compile-run </h3>
+<h3>3. body-parser </h3>
+
+<h3> Install CodeMirror, a plugin to get the code editor </h3>
+
