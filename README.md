@@ -1,18 +1,18 @@
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/COVID19-Tracker/blob/master/resources/name2.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/name2.PNG">
 </p>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/COVID19-Tracker/blob/master/resources/covid19tracker.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/covid19tracker.PNG">
 </p>
 
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/COVID19-Tracker/blob/master/resources/covid19-tracker.gif" >
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/covid19-tracker.gif" >
 </p>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/COVID19-Tracker/blob/master/resources/features.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/features.PNG">
 </p>
 
 <h3>Check out the demo <a href="https://www.youtube.com/watch?v=1Df820ioQZI&feature=youtu.be"> here </a> </h3>
@@ -27,7 +27,7 @@
 
 <p align="center">
 
-<img src="https://github.com/ShankarNarayananS/Holmes-ChatBot/blob/master/ezgif-3-3f9f3ee077f3.gif">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/ezgif-3-3f9f3ee077f3.gif">
 
 </p>
 
@@ -49,7 +49,7 @@
 
 <h1> GIF Forager® : A GIF search website using Node JS and GIPHY API </h1>
 
-![](https://github.com/ShankarNarayananS/GIF-Forager/blob/master/GIF-Forager.gif)
+![](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/GIF-Forager.gif)
 
 <h3> Click <a href="https://www.youtube.com/watch?v=q29ftZ00KlE">here</a> for a better view </h3>
 
@@ -61,7 +61,7 @@
 
 <h1> JS-Crypt : A project to Encrypt and Decrypt files using CryptoJS </h1>
 
-![join1](https://github.com/ShankarNarayananS/JS-Crypt/blob/master/JS-Crypt.gif)
+![join1](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/JS-Crypt.gif)
 
 <h3> Click <a href="https://www.youtube.com/watch?v=WYjb5hl4C3A">here</a> for a better view </h3>
 
@@ -77,12 +77,12 @@
 
 <p align="center">
 
-<img src="https://github.com/ShankarNarayananS/LocIDE/blob/master/LocIDE-1.gif">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/LocIDE-1.gif">
 
 </p>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/Local-IDE/blob/master/screencapture-127-0-0-1-5500-index-html-2020-05-13-12_52_02.png">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/screencapture-127-0-0-1-5500-index-html-2020-05-13-12_52_02.png">
 </p>
 
 <h3> Check out the demo <a href="https://www.youtube.com/watch?v=4Pm9umqVZFU">here</a> </h3>
@@ -106,12 +106,12 @@
 
 <p align="center">
 
-<img src="https://github.com/ShankarNarayananS/My-Daily-Planner/blob/master/dailyplanner.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/dailyplanner.PNG">
 </p>
 
 <p align="center">
 
-<img src="https://github.com/ShankarNarayananS/My-Daily-Planner/blob/master/dailyplanner.gif">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/dailyplanner.gif">
 
 </p>
 
@@ -147,26 +147,26 @@
 <h4>9. Enjoy </h4>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/Tic-Tac-Toe/blob/master/name.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/name.PNG">
 </p>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/Tic-Tac-Toe/blob/master/tictactoe.gif">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/tictactoe.gif">
 </p>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/Tic-Tac-Toe/blob/master/instructions.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/instructions.PNG">
 </p>
 
 
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/Tic-Tac-Toe/blob/master/tic.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/tic.PNG">
 </p>
 
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/Tic-Tac-Toe/blob/master/run.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/run.PNG">
 </p>
 
 <h4>Or you could simply click <a href="https://focused-noether-098412.netlify.app/">here</a></h4>
@@ -176,7 +176,7 @@
 
 <h1>URl Minion® : A Lightweight URL Shortener using Node JS and MongoDB </h1>
 
-![URL](https://github.com/ShankarNarayanan97/URL-Minion/blob/master/URL_shortener.JPG)
+![URL](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/URL_shortener.JPG)
 
 <h2> Who should use it? </h2>
 
@@ -203,7 +203,7 @@
 <h4> Absolutely. Just fork this repository and proceed with your version of it. </h4>
 <h1> QR Gen : A QR Generator made using HTML5, CSS3 and JS </h1>
 
-![URL](https://github.com/ShankarNarayanan97/QR-Gen/blob/master/ezgif-3-8809a12d679c.gif)
+![URL](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/ezgif-3-8809a12d679c.gif)
 
 <h2> <ins>Features</ins> </h2>
 <h3>1. Cross-Browser support with HTML5 canvas</h3>
@@ -229,7 +229,7 @@
 
 <p align="center">
   
-<img src="https://github.com/ShankarNarayananS/IMDB-Scraper/blob/master/Most-Popular-Movies-IMDb-1.gif">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/Most-Popular-Movies-IMDb-1.gif">
 </p>
 
 
@@ -255,7 +255,7 @@
 
 <h1>NewScrap® : A Web Scraping tool built using NodeJS and NightmareJS</h1>
 
-![](https://github.com/ShankarNarayananS/WebScraper/blob/master/Hacker-News.gif)
+![](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/Hacker-News.gif)
 
 
 <h3> Click <a href="https://www.youtube.com/watch?v=U_kl_ULcO_Y">here</a> for a better view </h3>
@@ -282,31 +282,31 @@
 <h5> You can modify the code to export the contents in a text folder which I might do so in the next commit </h5>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/Quiz-App/blob/master/name.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/name.PNG">
 </p>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/Quiz-App/blob/master/app.gif">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/app.gif">
 </p>
 
 <h3> Click <a href="https://www.youtube.com/watch?v=PGUv-59EScU">here</a> for a better view </h3>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/Quiz-App/blob/master/page.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/page.PNG">
 </p>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/Quiz-App/blob/master/instructions.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/instructions.PNG">
 </p>
 
 <h3> Or you could simply click <a href="https://flamboyant-saha-637ea0.netlify.app/">here</a> </h3>
 
 
-<img src="https://github.com/ShankarNarayananS/Password-Strength-Checker/blob/master/p1.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/p1.PNG">
 </p>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/Password-Strength-Checker/blob/master/Password-Strength-Checker.gif">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/Password-Strength-Checker.gif">
 </p>
 
 
@@ -333,7 +333,7 @@
 <h3> It's kind of an irony, A PASSWORD TO SAVE A BUNCH OF PASSWORDS. So it is our responsibilty to generate a STRONG MASTER PASSWORD</h3>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/Password-Strength-Checker/blob/master/password_time_and_length.jpg">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/password_time_and_length.jpg">
 </p>
 
 <h3> So you get the idea, it takes a long time to crack these passwords by todays standards </h3>
@@ -352,7 +352,7 @@
 
 <h1>JSnakes® : A snake game using JS </h1>
 
-![URL](https://github.com/ShankarNarayanan97/JSnakes/blob/master/ezgif-3-68afec052385.gif)
+![URL](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/ezgif-3-68afec052385.gif)
 
 
 <h2>This fun game takes you back to the time when games were simple, yet addictive. So, if you are a fan of retro games or just in search of a small game to pass the time, you are in the right place!
@@ -370,21 +370,21 @@
 <h3>3. Enjoy </h3>
 
 <p align="center">
-  <img src="https://github.com/ShankarNarayananS/Catch-Me/blob/master/title.PNG">
+  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/title.PNG">
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShankarNarayananS/Catch-Me/blob/master/Try-to-catch-me.gif">
+  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/Try-to-catch-me.gif">
 </p>
 
 
 
 <p align="center">
-  <img src="https://github.com/ShankarNarayananS/Catch-Me/blob/master/objective.PNG">
+  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/objective.PNG">
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShankarNarayananS/Catch-Me/blob/master/how.PNG">
+  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/how.PNG">
 </p>
 
 
@@ -400,9 +400,9 @@
 <h1>FaceUp® : Face Detection for Beginners </h1>
 
 
-![join1](https://github.com/ShankarNarayanan97/FaceUp/blob/master/finaljoin1.jpg)
-![join1](https://github.com/ShankarNarayanan97/FaceUp/blob/master/finaljoin2.jpg)
-![join1](https://github.com/ShankarNarayanan97/FaceUp/blob/master/finaljoin3.jpg)
+![join1](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/finaljoin1.jpg)
+![join1](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/finaljoin2.jpg)
+![join1](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/finaljoin3.jpg)
 
 <h2> What is this ? </h2>
 <h4> An easy to implement project on Face Detection made using Python3,OpenCV and Matplotlib </h4>
@@ -432,9 +432,9 @@
 <h1>PyBro® :
 A lightweight browser for Python3 </h1>
 
-![PyBro](https://github.com/ShankarNarayanan97/PyBro-/blob/master/images/browser2.JPG)
-![PyBro](https://github.com/ShankarNarayanan97/PyBro-/blob/master/images/browser4.JPG)
-![PyBro](https://github.com/ShankarNarayanan97/PyBro-/blob/master/images/browser6.JPG)
+![PyBro](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/browser2.JPG)
+![PyBro](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/browser4.JPG)
+![PyBro](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/browser6.JPG)
 
 
 <h2> Who is it for? </h2>
@@ -460,7 +460,7 @@ A lightweight browser for Python3 </h1>
 
 
 
-![URL](https://github.com/ShankarNarayanan97/ZenCal/blob/master/ZenCal.JPG)
+![URL](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/ZenCal.JPG)
 
 <u><h2>Instructions:</h2>
 <h5>1. Install Python <a href="https://www.python.org/downloads/">here</a> </h5>
@@ -471,24 +471,24 @@ A lightweight browser for Python3 </h1>
 <h5>5. Run the program</h5>
   
   <p align="center">
-  <img src="https://github.com/ShankarNarayananS/Dark-Up/blob/master/darkup.PNG">
+  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/darkup.PNG">
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShankarNarayananS/Dark-Up/blob/master/title.gif">
+  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/title.gif">
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/ShankarNarayananS/Dark-Up/blob/master/how_it_works.PNG">
+  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/how_it_works.PNG">
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShankarNarayananS/Dark-Up/blob/master/main.gif">
+  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/main.gif">
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShankarNarayananS/Dark-Up/blob/master/instructions.PNG">
+  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/instructions.PNG">
 </p>
 
 <h3> Check it out <a href="https://friendly-mcnulty-abb37e.netlify.app/">here</h3>
