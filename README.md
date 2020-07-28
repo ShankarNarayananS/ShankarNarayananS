@@ -106,7 +106,7 @@
 
 <p align="center">
 
-<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/dailyplanner.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/dailyplanner.png">
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@
 
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/name.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/name.png">
 </p>
 
 <p align="center">
@@ -143,18 +143,18 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/instructions.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/instructions.png">
 </p>
 
 
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/tic.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/tic.png">
 </p>
 
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/run.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/run.png">
 </p>
 
 <h4>Or you could simply click <a href="https://focused-noether-098412.netlify.app/">here</a></h4>
@@ -240,7 +240,7 @@
 <h5> You can modify the code to export the contents in a text folder which I might do so in the next commit </h5>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/quiz_name.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/quiz_name.png">
 </p>
 
 <p align="center">
@@ -250,17 +250,17 @@
 <h3> Click <a href="https://www.youtube.com/watch?v=PGUv-59EScU">here</a> for a better view </h3>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/quiz_page.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/quiz_page.png">
 </p>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/quiz_instructions.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/quiz_instructions.png">
 </p>
 
 <h3> Or you could simply click <a href="https://flamboyant-saha-637ea0.netlify.app/">here</a> </h3>
 
 
-<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/p1.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/p1.png">
 </p>
 
 <p align="center">
@@ -323,7 +323,7 @@
 <h3>3. Enjoy </h3>
 
 <p align="center">
-  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/title.PNG">
+  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/title.png">
 </p>
 
 <p align="center">
@@ -333,11 +333,11 @@
 
 
 <p align="center">
-  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/objective.PNG">
+  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/objective.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/how.PNG">
+  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/how.png">
 </p>
 
 
@@ -412,7 +412,7 @@ A lightweight browser for Python3 </h1>
 
   
   <p align="center">
-  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/darkup.PNG">
+  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/darkup.png">
 </p>
 
 <p align="center">
@@ -421,7 +421,7 @@ A lightweight browser for Python3 </h1>
 
 
 <p align="center">
-  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/how_it_works.PNG">
+  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/how_it_works.png">
 </p>
 
 <p align="center">
