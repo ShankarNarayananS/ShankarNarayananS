@@ -1,5 +1,5 @@
 <p align="center">
-  <h1> Check out my salient projects
+  <h1> Check out my projects here
   </p>
 <p align="center">
 <img src="https://github.com/ShankarNarayananS/COVID19-Tracker/blob/master/resources/name2.PNG">
