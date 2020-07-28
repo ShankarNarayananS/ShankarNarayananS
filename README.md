@@ -469,6 +469,36 @@ A lightweight browser for Python3 </h1>
 <h5>4. For those using Anaconda, should a problem arise when importing Tkinter, just run the following command on Anaconda Prompt</h5>
 <h6>conda install -c anaconda tk</h6>
 <h5>5. Run the program</h5>
+  
+  <p align="center">
+  <img src="https://github.com/ShankarNarayananS/Dark-Up/blob/master/darkup.PNG">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ShankarNarayananS/Dark-Up/blob/master/title.gif">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/ShankarNarayananS/Dark-Up/blob/master/how_it_works.PNG">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ShankarNarayananS/Dark-Up/blob/master/main.gif">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ShankarNarayananS/Dark-Up/blob/master/instructions.PNG">
+</p>
+
+<h3> Check it out <a href="https://friendly-mcnulty-abb37e.netlify.app/">here</h3>
+
+
+
+
+
+
+
 
 
 
