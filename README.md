@@ -164,7 +164,7 @@
 
 <h1>URl Minion® : A Lightweight URL Shortener using Node JS and MongoDB </h1>
 
-![URL](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/URL_shortener.JPG)
+![URL](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/URL_shortener.jpg)
 
 <h2> Who should use it? </h2>
 
@@ -379,9 +379,9 @@
 <h1>PyBro® :
 A lightweight browser for Python3 </h1>
 
-![PyBro](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/browser2.JPG)
-![PyBro](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/browser4.JPG)
-![PyBro](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/browser6.JPG)
+![PyBro](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/browser2.jpg)
+![PyBro](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/browser4.jpg)
+![PyBro](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/browser6.jpg)
 
 
 <h2> Who is it for? </h2>
@@ -407,7 +407,7 @@ A lightweight browser for Python3 </h1>
 
 
 
-![URL](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/ZenCal.JPG)
+![URL](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/ZenCal.jpg)
 
 
   
