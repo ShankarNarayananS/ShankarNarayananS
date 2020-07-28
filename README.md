@@ -258,6 +258,26 @@
 <h3><ins>NOTE</ins></h3>
 <h5> You can modify the code to export the contents in a text folder which I might do so in the next commit </h5>
 
+<p align="center">
+<img src="https://github.com/ShankarNarayananS/Quiz-App/blob/master/name.PNG">
+</p>
+
+<p align="center">
+<img src="https://github.com/ShankarNarayananS/Quiz-App/blob/master/app.gif">
+</p>
+
+<h3> Click <a href="https://www.youtube.com/watch?v=PGUv-59EScU">here</a> for a better view </h3>
+
+<p align="center">
+<img src="https://github.com/ShankarNarayananS/Quiz-App/blob/master/page.PNG">
+</p>
+
+<p align="center">
+<img src="https://github.com/ShankarNarayananS/Quiz-App/blob/master/instructions.PNG">
+</p>
+
+<h3> Or you could simply click <a href="https://flamboyant-saha-637ea0.netlify.app/">here</a> </h3>
+
 
 
 <h1>FaceUp® : Face Detection for Beginners </h1>
