@@ -240,21 +240,21 @@
 <h5> You can modify the code to export the contents in a text folder which I might do so in the next commit </h5>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/name.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/quiz_name.PNG">
 </p>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/app.gif">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/quiz_app.gif">
 </p>
 
 <h3> Click <a href="https://www.youtube.com/watch?v=PGUv-59EScU">here</a> for a better view </h3>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/page.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/quiz_page.PNG">
 </p>
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/instructions.PNG">
+<img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/quiz_instructions.PNG">
 </p>
 
 <h3> Or you could simply click <a href="https://flamboyant-saha-637ea0.netlify.app/">here</a> </h3>
