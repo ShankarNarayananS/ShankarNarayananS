@@ -132,19 +132,7 @@
 <h4>3. <a href="https://www.npmjs.com/package/mongoose">Mongoose</a></h4>
 <h4>4. <a href="https://www.npmjs.com/package/ejs">EJS</a></h4>
 
-<h2> Sounds amazing, how should I go about it? </h2>
 
-
-
-<h4>1. Download this repository to your server</h4>
-<h4>2. Install <a href="https://nodejs.org/en/download/">Node JS</a> </h4>
-<h4>3. Install <a href="https://www.mongodb.com/download-center/community">Mongo DB</a> </h4>
-<h4>4. Use this <a href="https://www.freecodecamp.org/news/learn-mongodb-a4ce205e7739/">page</a> to configure and run your MongoDB server</h4>
-<h4>5. Install the required packages using this command, "npm install 'package_name' " without any of the quotes in a CLI in the downloaded folder </h4>
-<h4>6. Type the following command to start the server, "npm start" </h4>
-<h4>7. Enter your tasks to be completed in the text box and press Submit </h4>
-<h4>8. Now the data will be updated in the list and in the MongoDB server </h4>
-<h4>9. Enjoy </h4>
 
 <p align="center">
 <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/name.PNG">
@@ -182,22 +170,7 @@
 
 <h4> Anybody who wants to build a URL shortener for use in their server or someone curious to know how a URL server works can make use of this repository </h4>
 
-<h2> How should I go about it ? </h2>
 
-<h5>1. Install Node JS <a href="https://nodejs.org/en/download/">here</a> </h5>
-<h5>2. Install a compatible IDE like <a href="https://code.visualstudio.com/download">VS Code</a> or anything else of your <a href="https://www.bacancytechnology.com/blog/top-ides-for-nodejs-application-development">preference</a></h5>
-<h5>3. Open a CLI in this downloaded folder </h5>
-<h5>4. Run the following commands to install the packages required to run this project</h5>
-<h6>a. npm install express</h6>
-<h6>b. npm install nodemon</h6>
-<h6>c. npm install mongoose</h6>
-<h6>d. npm install body-parser</h6>
-<h6>e. npm install mongodb</h6>
-<h6>NOTE:The above command is just a driver so you need to install the actual MongoDB server <a href="https://www.mongodb.com/download-center/community">here</a></h6>
-<h6>f. npm install ejs </h6>
-<h5>5. Make the necessary changes in the code to reflect your settings in MongoDB using this <a href="https://www.freecodecamp.org/news/learn-mongodb-a4ce205e7739/">guide</a></h5>
-<h5>6. Run the server using this command</h5>
-<h6>nodemon index.js</h6>
 
 <h2> I want to make some changes to it, can I do so? </h2>
 <h4> Absolutely. Just fork this repository and proceed with your version of it. </h4>
@@ -217,11 +190,7 @@
 <h3>3. Enjoy </h3>
 
 
-<h2><ins>Steps to Run it in your server</ins></h2>
-<h3>1. Download this repository to your server </h3>
-<h3>2. Open index.html or set up live-server </h3>
-<h3>3. Enter the data to convert to QR</h3>
-<h3>4. Enjoy</h3>
+
 
 
 <h1> IMDB Scraper : Built using NodeJS, Cheerio and Request </h1>
@@ -245,13 +214,7 @@
 <h4>3. <a href="https://www.npmjs.com/package/fs">FS</a> , to export the parsed data to a file </h4>
 <h4>4. <a href="https://www.npmjs.com/package/nodemon">Nodemon</a> ,to monitor the server real time </h4>
 
-<h2> Sounds amazing, how should I go about it ? </h2>
-<h4>1. Download this repository to your server</h4>
-<h4>2. Install <a href="https://nodejs.org/en/download/">Node JS</a> </h4>
-<h4>3. Install the required packages using this command, "npm install 'package_name' " without any of the quotes in a CLI in the downloaded folder </h4>
-<h4>4. Type the following command to start the server, "npm start" </h4>
-<h4>5. Wait till it scrapes the data</h4>
-<h4>6. Now it will export the contents to a file named 'imdb.txt' in the root folder </h4> 
+
 
 <h1>NewScrap® : A Web Scraping tool built using NodeJS and NightmareJS</h1>
 
@@ -271,12 +234,7 @@
 <h4>2. <a href="http://www.nightmarejs.org/">Nightmare JS</a></h4>
 <h4>3. <a href="https://www.npmjs.com/package/nodemon">Nodemon</a></h4>
 
-<h2><ins>Steps to run it in your server</ins></h2>
-<h4>1. Install all the dependencies </h4>
-<h4>2. Download this repository to your server </h4>
-<h4>3. Open a CLI in the downloaded folder</h4>
-<h4>4. Type 'nodemon' and press enter </h4>
-<h4>5. It will now scrape the content in a JSON array in the CLI </h4>
+
 
 <h3><ins>NOTE</ins></h3>
 <h5> You can modify the code to export the contents in a text folder which I might do so in the next commit </h5>
@@ -339,12 +297,7 @@
 <h3> So you get the idea, it takes a long time to crack these passwords by todays standards </h3>
 
 
-<h1> How should I go about it ? </h1>
-<h4>1. Download this repository</h4>
-<h4>2. Open index.html </h4>
-<h4>3. Type your password </h4>
-<h4>4. Notice the meter and the suggestions below </h4>
-<h4>5. Make the corrections and you have your own strong password to use </h4>
+
 
 <hr>
 
@@ -414,13 +367,7 @@
 <h4> Without the use of GPU*, has a accuracy of around 85% for images with less than 6 subjects in frame and 70% for more than 6 subjects when considered factors like resolution, exposure of image, linear seperation between subjects and a viable updated model present in Open CV</h4>
 <h6> *If a GPU satisfying passable conditions for image recognition is present, a additional library called Tensorflow may be asked to install </h6>
 
-<h2> How to go about it ?</h2>
-<h5>1. Install Python <a href="https://www.python.org/downloads/">here</a> </h5>
-<h5>2. Install any Python IDE of your choice <a href="https://wiki.python.org/moin/IntegratedDevelopmentEnvironments">here</a> </h5>
-<h5>3. Install the packages using a simple command  by opening a command prompt in "your python installed folder/scripts/" after downloading this repository </h5>
-<h6>pip install -r requirements.txt </h6>
-<h5>4. Put the image URL that you want to do face detection in the code </h5>
-<h5>5. Run the code </h5>
+
 <h3> NOTE: </h3>
 <h4>=> As you might have noticed,there will be some loss in image quality in the output as the original image is compressed internally to do face detection due to which the faces might look like Na'vi from Avatar </h4> 
 <h4>=> For computers its all about RGB(Red Green Blue) composition in each frame which is broken down into multiple subframes like a matrix and the computer processes it 1 by one so thats why I had to show how it works in the output </h4>
@@ -462,13 +409,7 @@ A lightweight browser for Python3 </h1>
 
 ![URL](https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/ZenCal.JPG)
 
-<u><h2>Instructions:</h2>
-<h5>1. Install Python <a href="https://www.python.org/downloads/">here</a> </h5>
-<h5>2. Install any Python IDE of your choice <a href="https://wiki.python.org/moin/IntegratedDevelopmentEnvironments">here</a> </h5>
-<h5>3. By default Tkinter is installed in Python3. If not just update Python to latest distribution.
-<h5>4. For those using Anaconda, should a problem arise when importing Tkinter, just run the following command on Anaconda Prompt</h5>
-<h6>conda install -c anaconda tk</h6>
-<h5>5. Run the program</h5>
+
   
   <p align="center">
   <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/darkup.PNG">
@@ -487,9 +428,7 @@ A lightweight browser for Python3 </h1>
   <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/main.gif">
 </p>
 
-<p align="center">
-  <img src="https://github.com/ShankarNarayananS/ShankarNarayananS/blob/master/instructions.PNG">
-</p>
+
 
 <h3> Check it out <a href="https://friendly-mcnulty-abb37e.netlify.app/">here</h3>
 
