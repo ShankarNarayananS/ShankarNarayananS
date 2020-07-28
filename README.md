@@ -145,6 +145,34 @@
 <h4>8. Now the data will be updated in the list and in the MongoDB server </h4>
 <h4>9. Enjoy </h4>
 
+<p align="center">
+<img src="https://github.com/ShankarNarayananS/Tic-Tac-Toe/blob/master/name.PNG">
+</p>
+
+<p align="center">
+<img src="https://github.com/ShankarNarayananS/Tic-Tac-Toe/blob/master/tictactoe.gif">
+</p>
+
+<p align="center">
+<img src="https://github.com/ShankarNarayananS/Tic-Tac-Toe/blob/master/instructions.PNG">
+</p>
+
+
+
+<p align="center">
+<img src="https://github.com/ShankarNarayananS/Tic-Tac-Toe/blob/master/tic.PNG">
+</p>
+
+
+<p align="center">
+<img src="https://github.com/ShankarNarayananS/Tic-Tac-Toe/blob/master/run.PNG">
+</p>
+
+<h4>Or you could simply click <a href="https://focused-noether-098412.netlify.app/">here</a></h4>
+
+
+
+
 <h1>URl Minion® : A Lightweight URL Shortener using Node JS and MongoDB </h1>
 
 ![URL](https://github.com/ShankarNarayanan97/URL-Minion/blob/master/URL_shortener.JPG)
