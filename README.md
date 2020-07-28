@@ -15,11 +15,6 @@
 <img src="https://github.com/ShankarNarayananS/COVID19-Tracker/blob/master/resources/features.PNG">
 </p>
 
-
-<p align="center">
-<img src="https://github.com/ShankarNarayananS/COVID19-Tracker/blob/master/resources/instructions.PNG">
-</p>
-
 <h3>Check out the demo <a href="https://www.youtube.com/watch?v=1Df820ioQZI&feature=youtu.be"> here </a> </h3>
 
 <h3><ins> References </ins> </h3>
